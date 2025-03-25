@@ -4,5 +4,5 @@
 _________________________________
 <p align="center">Cross-Platform developer 📱 | Big Data & AI specialist 🤖  | Web-developer 🌐 
 </p>
-_________________________________
+
 
