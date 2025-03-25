@@ -1,5 +1,5 @@
-## Welcome to my profile! 👋
-<p align="center">Tu texto aquí</p>
+
+<p align="center">## Welcome to my profile! 👋</p>
 
 _________________________________
 
