@@ -11,8 +11,8 @@
 - **1+ years** of experience developing business management software through PHP
   
 <hr class="solid">
-## Languages
 
+## Languages
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)](https://dart.dev/)
