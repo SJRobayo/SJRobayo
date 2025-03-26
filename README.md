@@ -17,10 +17,12 @@
 <hr class="solid">
 ### 🛠️ Herramientas y Tecnologías
 - **Sistemas Operativos**: 
+
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows8&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   
 - **Lenguajes**:
+  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)](https://dart.dev/)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
