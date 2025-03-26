@@ -49,5 +49,5 @@
 
 ### My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJRobayo&layout=compact&theme=fracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJRobayo&layout=compact&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api?username=SJRobayo&show_icons=true&theme=dracula" width="394">
