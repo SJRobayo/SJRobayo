@@ -5,6 +5,6 @@
 </p>
 <hr class="solid">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJRobayo&layout=compact&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api?username=SJRobayo&show_icons=true&hide_title=true&theme=dracula" width="394">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJRobayo&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=SJRobayo&show_icons=true&hide_title=true&theme=tokyonight" width="394">
 
